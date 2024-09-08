@@ -1,6 +1,0 @@
-streamlit
-textblob
-numpy
-pandas
-plotly
-seaborn
